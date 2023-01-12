@@ -82,7 +82,7 @@ html, body {
  input[type=radio]:checked + label:after {
      opacity: 1;
 }
- input[type=text], input[type=password] {
+ input[type=text], input[type=password], input[type=email]  {
      width: calc(100% - 57px);
      height: 36px;
      margin: 13px 0 0 -5px;
